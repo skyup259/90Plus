@@ -163,19 +163,70 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-function AlumniComponent_div_17_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 21);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 22);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 23);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](3, "img", 24);
+function AlumniComponent_div_10_div_7_p_9_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "p", 22);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "a", 24);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](2, "Click to Know More");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "div", 25);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "h5", 26);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+} if (rf & 2) {
+    const data_r3 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"]().$implicit;
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("href", data_r3.link, _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+} }
+function AlumniComponent_div_10_div_7_p_10_span_1_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "span");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+} if (rf & 2) {
+    const data_r3 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](2).$implicit;
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](data_r3.other);
+} }
+function AlumniComponent_div_10_div_7_p_10_span_2_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "span");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1, ", ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+} }
+function AlumniComponent_div_10_div_7_p_10_span_3_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "span");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+} if (rf & 2) {
+    const data_r3 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](2).$implicit;
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](data_r3.location);
+} }
+function AlumniComponent_div_10_div_7_p_10_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "p", 22);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](1, AlumniComponent_div_10_div_7_p_10_span_1_Template, 2, 1, "span", 25);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](2, AlumniComponent_div_10_div_7_p_10_span_2_Template, 2, 0, "span", 25);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](3, AlumniComponent_div_10_div_7_p_10_span_3_Template, 2, 1, "span", 25);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+} if (rf & 2) {
+    const data_r3 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"]().$implicit;
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", data_r3.other);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", data_r3.location);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", data_r3.location);
+} }
+function AlumniComponent_div_10_div_7_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 16);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 17);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 18);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](3, "img", 19);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "div", 20);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "h5", 21);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](6);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "p", 27);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "p", 22);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](8);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](9, AlumniComponent_div_10_div_7_p_9_Template, 3, 1, "p", 23);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](10, AlumniComponent_div_10_div_7_p_10_Template, 4, 3, "p", 23);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -187,116 +238,356 @@ function AlumniComponent_div_17_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](data_r3.name);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](data_r3.title);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", data_r3.link);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", !data_r3.link);
 } }
-function AlumniComponent_div_25_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 21);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 22);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 23);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](3, "img", 24);
+function AlumniComponent_div_10_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 9);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 10);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "h5", 11);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](3, "button", 12);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](4);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "div", 25);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "h5", 26);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](6);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "p", 27);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](8);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "div", 13);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](6, "div", 14);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](7, AlumniComponent_div_10_div_7_Template, 11, 5, "div", 15);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 } if (rf & 2) {
-    const data_r4 = ctx.$implicit;
+    const batchYear_r1 = ctx.$implicit;
+    const ctx_r0 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](3);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("src", data_r4.path, _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](3);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](data_r4.name);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵattribute"]("data-target", "#batch" + batchYear_r1);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate1"](" Batch: ", batchYear_r1, " ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("id", "batch", batchYear_r1, "");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](data_r4.title);
-} }
-function AlumniComponent_div_33_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 21);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 22);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 23);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](3, "img", 24);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "div", 25);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "h5", 26);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](6);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "p", 27);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](8);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-} if (rf & 2) {
-    const data_r5 = ctx.$implicit;
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](3);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("src", data_r5.path, _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](3);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](data_r5.name);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](data_r5.title);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngForOf", ctx_r0.getBatchData(batchYear_r1));
 } }
 class AlumniComponent {
     constructor() {
-        this.class8 = [
+        this.batch2009 = [
             {
-                name: 'saurabh kumar',
+                name: 'Vinay K. Singh',
                 path: 'assets/profile.png',
-                title: 'maths, science',
-                subtitle: 'other information',
-                number: '987654321'
+                title: 'SAP ABAP Consultant',
+                other: 'Denpro Tech.',
+                number: '987654321',
+                location: 'Delhi'
             },
             {
-                name: 'Srini kumar',
+                name: 'Alka Priyadarshini',
                 path: 'assets/profile.png',
-                title: 'maths, science',
-                subtitle: 'other information',
-                number: '987654321'
+                title: 'Anesthesiologist',
+                other: 'Holy Family Hospital Kurji',
+                number: '987654321',
+                location: ''
             },
             {
-                name: 'saurabh kumar',
+                name: 'Roushan K. Singh',
                 path: 'assets/profile.png',
-                title: 'maths, science',
-                subtitle: 'other information',
-                number: '987654321'
+                title: 'Inspector',
+                other: 'Customs & Gst',
+                number: '987654321',
+                location: 'Kolkata'
             },
             {
-                name: 'saurabh kumar',
+                name: 'Manish K. Singh',
                 path: 'assets/profile.png',
-                title: 'maths, science',
-                subtitle: 'other information',
-                number: '987654321'
-            },
-            {
-                name: 'saurabh kumar',
-                path: 'assets/profile.png',
-                title: 'maths, science',
-                subtitle: 'other information',
-                number: '987654321'
-            },
-            {
-                name: 'saurabh kumar',
-                path: 'assets/profile.png',
-                title: 'maths, science',
-                subtitle: 'other information',
-                number: '987654321'
-            },
-            {
-                name: 'saurabh kumar',
-                path: 'assets/profile.png',
-                title: 'maths, science',
-                subtitle: 'other information',
-                number: '987654321'
+                title: 'Faculty of chemistry',
+                other: 'Bansal classes pvt. ltd.',
+                number: '987654321',
+                location: ''
             }
         ];
+        this.batch2010 = [
+            {
+                name: 'Avinash Rathour',
+                path: 'assets/profile.png',
+                title: 'Doctor',
+                other: 'Private hospital',
+                number: '987654321',
+                location: 'Arangabad'
+            },
+            {
+                name: 'Suwash Saurabh ',
+                path: 'assets/profile.png',
+                title: 'Senior Engineer',
+                other: 'ZF Group',
+                number: '987654321',
+                location: 'hyderabad'
+            }
+        ];
+        this.batch2011 = [
+            {
+                name: 'Saurabh K. Sunny',
+                path: 'assets/alumni/saurabh.jpg',
+                title: 'Software Engineer',
+                other: 'Aperture',
+                number: '987654321',
+                location: 'Hyderabad',
+                link: 'https://skyup259.github.io/host_profile/'
+            },
+            {
+                name: 'Kushagra Gupta',
+                path: 'assets/profile.png',
+                title: 'Ass. software engineer',
+                other: 'Mphasis',
+                location: 'Bangalore',
+                number: '987654321',
+            },
+            {
+                name: 'Rajat Deo',
+                path: 'assets/profile.png',
+                title: 'M.Tech (Transportation Engr)',
+                other: 'IIT',
+                location: 'Delhi',
+                number: '987654321',
+            },
+            {
+                name: 'Pummy Kumari',
+                path: 'assets/profile.png',
+                title: 'Software Engineer',
+                other: 'Tech Mahindra',
+                location: 'Delhi',
+                number: '987654321',
+            },
+            {
+                name: 'Varun K. Singh',
+                path: 'assets/profile.png',
+                title: 'Civil engineering',
+                other: 'Sathyabama University',
+                location: '',
+                number: '987654321',
+            }
+        ];
+        this.batch2012 = [
+            {
+                name: 'Rani Gupta',
+                path: 'assets/profile.png',
+                title: 'Ass. software engineer',
+                other: 'Cognizant',
+                number: '987654321',
+                location: 'Hyderabad'
+            },
+            {
+                name: 'Abhishek Kumar',
+                path: 'assets/profile.png',
+                title: '',
+                other: 'Sacchidanand Sinha Coll.',
+                number: '987654321',
+                location: 'Aurangabad'
+            },
+            {
+                name: 'Aman Singh',
+                path: 'assets/profile.png',
+                title: 'Junior engineer',
+                other: 'Thome shipping Pvt Ltd',
+                number: '987654321',
+                location: ''
+            },
+            {
+                name: 'Almas benazir',
+                path: 'assets/profile.png',
+                title: 'Mbbs',
+                other: 'Kmch',
+                number: '987654321',
+                location: 'Aurangabad'
+            },
+            {
+                name: 'Pappu K. Ranjan',
+                path: 'assets/profile.png',
+                title: 'Graduate Engr. Trainee ',
+                other: 'Bridge & Roof Co.',
+                number: '987654321',
+                location: ''
+            },
+            {
+                name: 'Aastha',
+                path: 'assets/profile.png',
+                title: 'Botony Honrs.',
+                other: 'Adhikari college sillar',
+                number: '987654321',
+                location: ''
+            },
+            {
+                name: 'Shrnya Bharadwaj',
+                path: 'assets/profile.png',
+                title: 'BPM',
+                other: 'Department of post',
+                number: '987654321',
+                location: ''
+            },
+            {
+                name: 'Shreya Singh',
+                path: 'assets/profile.png',
+                title: 'Chemistry honours',
+                other: 'JD womens College',
+                number: '987654321',
+                location: 'Patna'
+            },
+            {
+                name: 'Deepak Kumar',
+                path: 'assets/profile.png',
+                title: 'System Engineer',
+                other: 'Infosys',
+                number: '987654321',
+                location: 'Aurangabad '
+            },
+            {
+                name: 'Awnish Kumar',
+                path: 'assets/profile.png',
+                title: 'chemistry Hons.',
+                other: 'Sachidanand sinha College',
+                number: '987654321',
+                location: ''
+            },
+            {
+                name: 'Anjali Sharma',
+                path: 'assets/profile.png',
+                title: 'Science',
+                other: 'Sachidanand sinha College',
+                number: '987654321',
+                location: ''
+            }
+        ];
+        this.batch2013 = [
+            {
+                name: 'Neha Pandey',
+                path: 'assets/profile.png',
+                title: 'Associate Engineer',
+                other: 'P2power Solution Pvt. Ltd.',
+                number: '987654321',
+                location: ''
+            }
+        ];
+        this.batch2014 = [
+            {
+                name: 'Tejaswini Singh',
+                path: 'assets/profile.png',
+                title: 'Principal',
+                other: 'Spectra minds pre school',
+                number: '987654321',
+                location: ''
+            },
+            {
+                name: 'Raushan Kumar',
+                path: 'assets/profile.png',
+                title: 'Airman',
+                other: 'Indian Air Force',
+                number: '987654321',
+                location: 'Gujarat'
+            }
+        ];
+        this.batch2015 = [
+            {
+                name: 'Aakarshan Agrawal',
+                path: 'assets/profile.png',
+                title: 'Clinical Psychology',
+                other: 'Indira Gandhi University',
+                number: '987654321',
+                location: ''
+            },
+            {
+                name: 'Ankita Manik',
+                path: 'assets/profile.png',
+                title: 'Fashion communication',
+                other: 'NIFT',
+                number: '987654321',
+                location: 'Patna'
+            },
+            {
+                name: 'Anushka Raj',
+                path: 'assets/profile.png',
+                title: 'Computer Science & Engr.',
+                other: 'NIT',
+                number: '987654321',
+                location: 'Jamshedpur'
+            }
+        ];
+        this.batch2016 = [
+            {
+                name: 'Pankesh Kumar',
+                path: 'assets/profile.png',
+                title: 'B.tech(Civil)',
+                other: 'Punjab technical University',
+                number: '987654321',
+                location: ''
+            },
+            {
+                name: 'Kanak Singh',
+                path: 'assets/profile.png',
+                title: 'B.tech(Civil)',
+                other: 'Punjab technical University',
+                number: '987654321',
+                location: ''
+            }
+        ];
+        this.batch2017 = [
+            {
+                name: 'Nishant Kumar',
+                path: 'assets/profile.png',
+                title: 'MBBS',
+                other: 'Patna Medical College',
+                number: '987654321',
+                location: ''
+            }
+        ];
+        this.batch2018 = [
+            {
+                name: 'Satyam Kumar ',
+                path: 'assets/profile.png',
+                title: 'Is(Maths)',
+                other: 'Saraswati Vidya Mandir',
+                number: '987654321',
+                location: ''
+            }
+        ];
+        this.batches = [2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018];
     }
     ngOnInit() {
     }
+    getBatchData(batchYear) {
+        if (batchYear === 2009) {
+            return this.batch2009;
+        }
+        if (batchYear === 2010) {
+            return this.batch2010;
+        }
+        if (batchYear === 2011) {
+            return this.batch2011;
+        }
+        if (batchYear === 2012) {
+            return this.batch2012;
+        }
+        if (batchYear === 2013) {
+            return this.batch2013;
+        }
+        if (batchYear === 2014) {
+            return this.batch2014;
+        }
+        if (batchYear === 2015) {
+            return this.batch2015;
+        }
+        if (batchYear === 2016) {
+            return this.batch2016;
+        }
+        if (batchYear === 2017) {
+            return this.batch2017;
+        }
+        if (batchYear === 2018) {
+            return this.batch2018;
+        }
+    }
 }
 AlumniComponent.ɵfac = function AlumniComponent_Factory(t) { return new (t || AlumniComponent)(); };
-AlumniComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AlumniComponent, selectors: [["app-alumni"]], decls: 34, vars: 3, consts: [["id", "Alumni", 1, "rounded"], [1, "row", "px-5", "mt-4", "rounded"], [1, "col-12", "ruler", "rounded"], [1, "row"], [1, "col-12", "px-5"], [1, "row", "px-5", "mt-1", "align-center"], [1, "col-sm-12", "col-md", "pl-2", "p-bottom-40"], ["id", "accordion"], [1, "card"], ["id", "headingOne", 1, "card-header"], [1, "mb-0"], ["data-toggle", "collapse", "data-target", "#batch9", "aria-expanded", "false", "aria-controls", "collapseOne", 1, "btn", "btn-link"], ["id", "batch9", "aria-labelledby", "headingOne", "data-parent", "#accordion", 1, "collapse"], [1, "row", "max-height"], ["class", "card-body col-sm-12 col-md-4", 4, "ngFor", "ngForOf"], ["id", "headingTwo", 1, "card-header"], ["data-toggle", "collapse", "data-target", "#batch10", "aria-expanded", "false", "aria-controls", "collapseTwo", 1, "btn", "btn-link", "collapsed"], ["id", "batch10", "aria-labelledby", "headingTwo", "data-parent", "#accordion", 1, "collapse"], ["id", "headingThree", 1, "card-header"], ["data-toggle", "collapse", "data-target", "#batch11", "aria-expanded", "false", "aria-controls", "collapseThree", 1, "btn", "btn-link", "collapsed"], ["id", "batch11", "aria-labelledby", "headingThree", "data-parent", "#accordion", 1, "collapse"], [1, "card-body", "col-sm-12", "col-md-4"], [1, "row", "rounded", "border", "ml-2", "mr-2", "p-1"], [1, "col-3"], ["alt", "Card image cap", 1, "rounded-circle", "profie-pic", "pr-2", 3, "src"], [1, "col-9", "student-data"], [1, "card-title"], [1, "card-text"]], template: function AlumniComponent_Template(rf, ctx) { if (rf & 1) {
+AlumniComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AlumniComponent, selectors: [["app-alumni"]], decls: 11, vars: 1, consts: [["id", "Alumni", 1, "rounded"], [1, "row", "px-5", "mt-4", "rounded"], [1, "col-12", "ruler", "rounded"], [1, "row"], [1, "col-12", "px-5"], [1, "row", "px-5", "mt-1", "align-center"], [1, "col-sm-12", "col-md", "pl-2", "p-bottom-40"], ["id", "accordion"], ["class", "card", 4, "ngFor", "ngForOf"], [1, "card"], ["id", "headingOne", 1, "card-header"], [1, "mb-0"], ["data-toggle", "collapse", "aria-expanded", "false", "aria-controls", "collapseOne", 1, "btn", "btn-link"], ["aria-labelledby", "headingOne", "data-parent", "#accordion", 1, "collapse", 3, "id"], [1, "row", "max-height"], ["class", "card-body col-sm-12 col-md-4", 4, "ngFor", "ngForOf"], [1, "card-body", "col-sm-12", "col-md-4"], [1, "row", "rounded", "border", "ml-2", "mr-2", "p-1"], [1, "col-3"], ["alt", "Card image cap", 1, "rounded-circle", "profie-pic", "pr-2", 3, "src"], [1, "col-9", "student-data"], [1, "card-title"], [1, "card-text"], ["class", "card-text", 4, "ngIf"], [3, "href"], [4, "ngIf"]], template: function AlumniComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](2, "div", 2);
@@ -311,60 +602,15 @@ AlumniComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCo
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "div", 5);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](8, "div", 6);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](9, "div", 7);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](10, "div", 8);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](11, "div", 9);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](12, "h5", 10);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](13, "button", 11);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](14, " Batch: 2009 ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](15, "div", 12);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](16, "div", 13);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](17, AlumniComponent_div_17_Template, 9, 3, "div", 14);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](18, "div", 8);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](19, "div", 15);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](20, "h5", 10);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](21, "button", 16);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](22, " Batch: 2010 ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](23, "div", 17);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](24, "div", 13);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](25, AlumniComponent_div_25_Template, 9, 3, "div", 14);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](26, "div", 8);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](27, "div", 18);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](28, "h5", 10);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](29, "button", 19);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](30, " Batch: 2011 ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](31, "div", 20);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](32, "div", 13);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](33, AlumniComponent_div_33_Template, 9, 3, "div", 14);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](10, AlumniComponent_div_10_Template, 8, 4, "div", 8);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     } if (rf & 2) {
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](17);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngForOf", ctx.class8);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](8);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngForOf", ctx.class8);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](8);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngForOf", ctx.class8);
-    } }, directives: [_angular_common__WEBPACK_IMPORTED_MODULE_1__["NgForOf"]], styles: ["img[_ngcontent-%COMP%] {\r\n  width: 68px;\r\n  height: 68px;\r\n}\r\n\r\n.max-height[_ngcontent-%COMP%] {\r\n    max-height: 350px;\r\n    overflow-y: auto;\r\n}\r\n\r\n.student-data[_ngcontent-%COMP%] {\r\n  padding-left: 20px;\r\n}\r\n\r\n.card-body[_ngcontent-%COMP%] {\r\n  padding: .8rem;\r\n}\r\n\r\n@media (max-width: 350px) {\r\n  img[_ngcontent-%COMP%] {\r\n    width: 50px;\r\n    height: 50px;\r\n  }\r\n\r\n  .p-1[_ngcontent-%COMP%] {\r\n    padding: 0rem;\r\n  }\r\n\r\n  .col-3[_ngcontent-%COMP%]{\r\n    padding-left: 0px;\r\n    padding-right: 5px;\r\n  }\r\n\r\n  .col-9[_ngcontent-%COMP%] {\r\n    padding-left: 8px;\r\n    padding-right: 0px;\r\n  }\r\n\r\n  h5[_ngcontent-%COMP%] {\r\n    font-size: 1rem;\r\n    margin-bottom: 0rem;\r\n  }\r\n\r\n  .card-body[_ngcontent-%COMP%] {\r\n    padding: 0.3rem 0.7rem;\r\n  }\r\n}\r\n\r\n@media (min-width: 350px) and  (max-width: 450px) {\r\n  img[_ngcontent-%COMP%] {\r\n    width: 50px;\r\n    height: 50px;\r\n  }\r\n\r\n  .p-1[_ngcontent-%COMP%] {\r\n    padding: 0rem;\r\n  }\r\n\r\n  h5[_ngcontent-%COMP%] {\r\n    font-size: 1rem;\r\n    margin-bottom: 0rem;\r\n  }\r\n\r\n  .card-body[_ngcontent-%COMP%] {\r\n    padding: .35rem 1rem;\r\n  }\r\n}\r\n\r\n.ruler[_ngcontent-%COMP%] {\r\n  margin-top: 1rem;\r\n  margin-bottom: 1rem;\r\n  border: 0;\r\n  border-top: 1rem solid rgba(0, 0, 0, 0.1);\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50L2FsdW1uaS9hbHVtbmkuY29tcG9uZW50LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLFdBQVc7RUFDWCxZQUFZO0FBQ2Q7O0FBRUE7SUFDSSxpQkFBaUI7SUFDakIsZ0JBQWdCO0FBQ3BCOztBQUVBO0VBQ0Usa0JBQWtCO0FBQ3BCOztBQUVBO0VBQ0UsY0FBYztBQUNoQjs7QUFFQTtFQUNFO0lBQ0UsV0FBVztJQUNYLFlBQVk7RUFDZDs7RUFFQTtJQUNFLGFBQWE7RUFDZjs7RUFFQTtJQUNFLGlCQUFpQjtJQUNqQixrQkFBa0I7RUFDcEI7O0VBRUE7SUFDRSxpQkFBaUI7SUFDakIsa0JBQWtCO0VBQ3BCOztFQUVBO0lBQ0UsZUFBZTtJQUNmLG1CQUFtQjtFQUNyQjs7RUFFQTtJQUNFLHNCQUFzQjtFQUN4QjtBQUNGOztBQUdBO0VBQ0U7SUFDRSxXQUFXO0lBQ1gsWUFBWTtFQUNkOztFQUVBO0lBQ0UsYUFBYTtFQUNmOztFQUVBO0lBQ0UsZUFBZTtJQUNmLG1CQUFtQjtFQUNyQjs7RUFFQTtJQUNFLG9CQUFvQjtFQUN0QjtBQUNGOztBQUVBO0VBQ0UsZ0JBQWdCO0VBQ2hCLG1CQUFtQjtFQUNuQixTQUFTO0VBQ1QseUNBQXlDO0FBQzNDIiwiZmlsZSI6InNyYy9hcHAvY29tcG9uZW50L2FsdW1uaS9hbHVtbmkuY29tcG9uZW50LmNzcyIsInNvdXJjZXNDb250ZW50IjpbImltZyB7XHJcbiAgd2lkdGg6IDY4cHg7XHJcbiAgaGVpZ2h0OiA2OHB4O1xyXG59XHJcblxyXG4ubWF4LWhlaWdodCB7XHJcbiAgICBtYXgtaGVpZ2h0OiAzNTBweDtcclxuICAgIG92ZXJmbG93LXk6IGF1dG87XHJcbn1cclxuXHJcbi5zdHVkZW50LWRhdGEge1xyXG4gIHBhZGRpbmctbGVmdDogMjBweDtcclxufVxyXG5cclxuLmNhcmQtYm9keSB7XHJcbiAgcGFkZGluZzogLjhyZW07XHJcbn1cclxuXHJcbkBtZWRpYSAobWF4LXdpZHRoOiAzNTBweCkge1xyXG4gIGltZyB7XHJcbiAgICB3aWR0aDogNTBweDtcclxuICAgIGhlaWdodDogNTBweDtcclxuICB9XHJcblxyXG4gIC5wLTEge1xyXG4gICAgcGFkZGluZzogMHJlbTtcclxuICB9XHJcblxyXG4gIC5jb2wtM3tcclxuICAgIHBhZGRpbmctbGVmdDogMHB4O1xyXG4gICAgcGFkZGluZy1yaWdodDogNXB4O1xyXG4gIH1cclxuXHJcbiAgLmNvbC05IHtcclxuICAgIHBhZGRpbmctbGVmdDogOHB4O1xyXG4gICAgcGFkZGluZy1yaWdodDogMHB4O1xyXG4gIH1cclxuXHJcbiAgaDUge1xyXG4gICAgZm9udC1zaXplOiAxcmVtO1xyXG4gICAgbWFyZ2luLWJvdHRvbTogMHJlbTtcclxuICB9XHJcblxyXG4gIC5jYXJkLWJvZHkge1xyXG4gICAgcGFkZGluZzogMC4zcmVtIDAuN3JlbTtcclxuICB9XHJcbn1cclxuXHJcblxyXG5AbWVkaWEgKG1pbi13aWR0aDogMzUwcHgpIGFuZCAgKG1heC13aWR0aDogNDUwcHgpIHtcclxuICBpbWcge1xyXG4gICAgd2lkdGg6IDUwcHg7XHJcbiAgICBoZWlnaHQ6IDUwcHg7XHJcbiAgfVxyXG5cclxuICAucC0xIHtcclxuICAgIHBhZGRpbmc6IDByZW07XHJcbiAgfVxyXG5cclxuICBoNSB7XHJcbiAgICBmb250LXNpemU6IDFyZW07XHJcbiAgICBtYXJnaW4tYm90dG9tOiAwcmVtO1xyXG4gIH1cclxuXHJcbiAgLmNhcmQtYm9keSB7XHJcbiAgICBwYWRkaW5nOiAuMzVyZW0gMXJlbTtcclxuICB9XHJcbn1cclxuXHJcbi5ydWxlciB7XHJcbiAgbWFyZ2luLXRvcDogMXJlbTtcclxuICBtYXJnaW4tYm90dG9tOiAxcmVtO1xyXG4gIGJvcmRlcjogMDtcclxuICBib3JkZXItdG9wOiAxcmVtIHNvbGlkIHJnYmEoMCwgMCwgMCwgMC4xKTtcclxufVxyXG4iXX0= */"] });
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](10);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngForOf", ctx.batches);
+    } }, directives: [_angular_common__WEBPACK_IMPORTED_MODULE_1__["NgForOf"], _angular_common__WEBPACK_IMPORTED_MODULE_1__["NgIf"]], styles: ["img[_ngcontent-%COMP%] {\r\n  width: 68px;\r\n  height: 68px;\r\n}\r\n\r\n.max-height[_ngcontent-%COMP%] {\r\n    max-height: 350px;\r\n    overflow-y: auto;\r\n}\r\n\r\n.student-data[_ngcontent-%COMP%] {\r\n  padding-left: 20px;\r\n  padding-right: 0px;\r\n}\r\n\r\n.card-body[_ngcontent-%COMP%] {\r\n  padding: .8rem;\r\n}\r\n\r\n.card-title[_ngcontent-%COMP%] {\r\n  margin-bottom: 0px;\r\n}\r\n\r\np[_ngcontent-%COMP%] {\r\n  margin-bottom: 0;\r\n}\r\n\r\n@media (max-width: 350px) {\r\n  img[_ngcontent-%COMP%] {\r\n    width: 50px;\r\n    height: 50px;\r\n  }\r\n\r\n  .p-1[_ngcontent-%COMP%] {\r\n    padding: 0rem;\r\n  }\r\n\r\n  .col-3[_ngcontent-%COMP%]{\r\n    padding-left: 0px;\r\n    padding-right: 5px;\r\n  }\r\n\r\n  .col-9[_ngcontent-%COMP%] {\r\n    padding-left: 8px;\r\n    padding-right: 0px;\r\n  }\r\n\r\n  h5[_ngcontent-%COMP%] {\r\n    font-size: 1rem;\r\n    margin-bottom: 0rem;\r\n  }\r\n\r\n  .card-body[_ngcontent-%COMP%] {\r\n    padding: 0.3rem 0.7rem;\r\n  }\r\n}\r\n\r\n@media (min-width: 350px) and  (max-width: 450px) {\r\n  img[_ngcontent-%COMP%] {\r\n    width: 50px;\r\n    height: 50px;\r\n  }\r\n\r\n  .p-1[_ngcontent-%COMP%] {\r\n    padding: 0rem;\r\n  }\r\n\r\n  h5[_ngcontent-%COMP%] {\r\n    font-size: 1rem;\r\n    margin-bottom: 0rem;\r\n  }\r\n\r\n  .card-body[_ngcontent-%COMP%] {\r\n    padding: .35rem 1rem;\r\n  }\r\n}\r\n\r\n.ruler[_ngcontent-%COMP%] {\r\n  margin-top: 1rem;\r\n  margin-bottom: 1rem;\r\n  border: 0;\r\n  border-top: 1rem solid rgba(0, 0, 0, 0.1);\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50L2FsdW1uaS9hbHVtbmkuY29tcG9uZW50LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLFdBQVc7RUFDWCxZQUFZO0FBQ2Q7O0FBRUE7SUFDSSxpQkFBaUI7SUFDakIsZ0JBQWdCO0FBQ3BCOztBQUVBO0VBQ0Usa0JBQWtCO0VBQ2xCLGtCQUFrQjtBQUNwQjs7QUFFQTtFQUNFLGNBQWM7QUFDaEI7O0FBRUE7RUFDRSxrQkFBa0I7QUFDcEI7O0FBRUE7RUFDRSxnQkFBZ0I7QUFDbEI7O0FBRUE7RUFDRTtJQUNFLFdBQVc7SUFDWCxZQUFZO0VBQ2Q7O0VBRUE7SUFDRSxhQUFhO0VBQ2Y7O0VBRUE7SUFDRSxpQkFBaUI7SUFDakIsa0JBQWtCO0VBQ3BCOztFQUVBO0lBQ0UsaUJBQWlCO0lBQ2pCLGtCQUFrQjtFQUNwQjs7RUFFQTtJQUNFLGVBQWU7SUFDZixtQkFBbUI7RUFDckI7O0VBRUE7SUFDRSxzQkFBc0I7RUFDeEI7QUFDRjs7QUFHQTtFQUNFO0lBQ0UsV0FBVztJQUNYLFlBQVk7RUFDZDs7RUFFQTtJQUNFLGFBQWE7RUFDZjs7RUFFQTtJQUNFLGVBQWU7SUFDZixtQkFBbUI7RUFDckI7O0VBRUE7SUFDRSxvQkFBb0I7RUFDdEI7QUFDRjs7QUFFQTtFQUNFLGdCQUFnQjtFQUNoQixtQkFBbUI7RUFDbkIsU0FBUztFQUNULHlDQUF5QztBQUMzQyIsImZpbGUiOiJzcmMvYXBwL2NvbXBvbmVudC9hbHVtbmkvYWx1bW5pLmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyJpbWcge1xyXG4gIHdpZHRoOiA2OHB4O1xyXG4gIGhlaWdodDogNjhweDtcclxufVxyXG5cclxuLm1heC1oZWlnaHQge1xyXG4gICAgbWF4LWhlaWdodDogMzUwcHg7XHJcbiAgICBvdmVyZmxvdy15OiBhdXRvO1xyXG59XHJcblxyXG4uc3R1ZGVudC1kYXRhIHtcclxuICBwYWRkaW5nLWxlZnQ6IDIwcHg7XHJcbiAgcGFkZGluZy1yaWdodDogMHB4O1xyXG59XHJcblxyXG4uY2FyZC1ib2R5IHtcclxuICBwYWRkaW5nOiAuOHJlbTtcclxufVxyXG5cclxuLmNhcmQtdGl0bGUge1xyXG4gIG1hcmdpbi1ib3R0b206IDBweDtcclxufVxyXG5cclxucCB7XHJcbiAgbWFyZ2luLWJvdHRvbTogMDtcclxufVxyXG5cclxuQG1lZGlhIChtYXgtd2lkdGg6IDM1MHB4KSB7XHJcbiAgaW1nIHtcclxuICAgIHdpZHRoOiA1MHB4O1xyXG4gICAgaGVpZ2h0OiA1MHB4O1xyXG4gIH1cclxuXHJcbiAgLnAtMSB7XHJcbiAgICBwYWRkaW5nOiAwcmVtO1xyXG4gIH1cclxuXHJcbiAgLmNvbC0ze1xyXG4gICAgcGFkZGluZy1sZWZ0OiAwcHg7XHJcbiAgICBwYWRkaW5nLXJpZ2h0OiA1cHg7XHJcbiAgfVxyXG5cclxuICAuY29sLTkge1xyXG4gICAgcGFkZGluZy1sZWZ0OiA4cHg7XHJcbiAgICBwYWRkaW5nLXJpZ2h0OiAwcHg7XHJcbiAgfVxyXG5cclxuICBoNSB7XHJcbiAgICBmb250LXNpemU6IDFyZW07XHJcbiAgICBtYXJnaW4tYm90dG9tOiAwcmVtO1xyXG4gIH1cclxuXHJcbiAgLmNhcmQtYm9keSB7XHJcbiAgICBwYWRkaW5nOiAwLjNyZW0gMC43cmVtO1xyXG4gIH1cclxufVxyXG5cclxuXHJcbkBtZWRpYSAobWluLXdpZHRoOiAzNTBweCkgYW5kICAobWF4LXdpZHRoOiA0NTBweCkge1xyXG4gIGltZyB7XHJcbiAgICB3aWR0aDogNTBweDtcclxuICAgIGhlaWdodDogNTBweDtcclxuICB9XHJcblxyXG4gIC5wLTEge1xyXG4gICAgcGFkZGluZzogMHJlbTtcclxuICB9XHJcblxyXG4gIGg1IHtcclxuICAgIGZvbnQtc2l6ZTogMXJlbTtcclxuICAgIG1hcmdpbi1ib3R0b206IDByZW07XHJcbiAgfVxyXG5cclxuICAuY2FyZC1ib2R5IHtcclxuICAgIHBhZGRpbmc6IC4zNXJlbSAxcmVtO1xyXG4gIH1cclxufVxyXG5cclxuLnJ1bGVyIHtcclxuICBtYXJnaW4tdG9wOiAxcmVtO1xyXG4gIG1hcmdpbi1ib3R0b206IDFyZW07XHJcbiAgYm9yZGVyOiAwO1xyXG4gIGJvcmRlci10b3A6IDFyZW0gc29saWQgcmdiYSgwLCAwLCAwLCAwLjEpO1xyXG59XHJcbiJdfQ== */"] });
 /*@__PURE__*/ (function () { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](AlumniComponent, [{
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
         args: [{
@@ -502,14 +748,16 @@ function NoticeComponent_div_3_Template(rf, ctx) { if (rf & 1) {
 } if (rf & 2) {
     const meeting_r6 = ctx.$implicit;
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](5);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](meeting_r6.topic);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate1"]("", meeting_r6.topic, " reasdfsd");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](meeting_r6.description);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate2"](" ", meeting_r6.date, " ", meeting_r6.time, "");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate1"](" Organiser: ", meeting_r6.organiser, "");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](6);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("href", meeting_r6.link, _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](5);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("src", meeting_r6.picPath, _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](meeting_r6.takenBy);
@@ -648,7 +896,7 @@ class NoticeComponent {
                 time: '10:00 am IST',
                 date: '5 Sep 2020',
                 description: 'HTMl, CSS',
-                link: '',
+                link: 'https://meet.google.com/wif-pnjg-wxv',
                 organiser: 'Chandan Singh',
                 organiserNumber: '',
                 takenBy: 'Saurabh Sunny',
@@ -699,105 +947,105 @@ class NoticeComponent {
         this.routineClass10 = [
             {
                 day: 'Mon',
-                sub: 'Maths, Science'
+                sub: 'English, S.S.T'
             },
             {
                 day: 'Tue',
-                sub: 'Maths, Science'
+                sub: 'English, Maths'
             },
             {
                 day: 'Wed',
-                sub: 'Maths, Science'
+                sub: 'S.S.T, Chem'
             },
             {
                 day: 'Thu',
-                sub: 'Maths, Science'
+                sub: 'Sanskrit, Bio'
             },
             {
                 day: 'Fri',
-                sub: 'Maths, Science'
+                sub: 'Maths, Chem'
             },
             {
                 day: 'Sat',
-                sub: 'Maths, 10'
+                sub: 'Maths, Bio'
             }
         ];
         this.routineClass9 = [
             {
                 day: 'Mon',
-                sub: 'Maths, Science'
+                sub: 'Phy, S.S.T'
             },
             {
                 day: 'Tue',
-                sub: 'Maths, Science'
+                sub: 'Maths, Chem'
             },
             {
                 day: 'Wed',
-                sub: 'Maths, Science'
+                sub: 'Maths, Bio'
             },
             {
                 day: 'Thu',
-                sub: 'Maths, Science'
+                sub: 'Maths, Chem'
             },
             {
                 day: 'Fri',
-                sub: 'Maths, Science'
+                sub: 'Sanskrit, Bio'
             },
             {
                 day: 'Sat',
-                sub: 'Maths, 9'
+                sub: 'English, S.S.T'
             }
         ];
         this.routineClass8 = [
             {
                 day: 'Mon',
-                sub: 'Maths, Science'
+                sub: 'Maths'
             },
             {
                 day: 'Tue',
-                sub: 'Maths, Science'
+                sub: 'Science'
             },
             {
                 day: 'Wed',
-                sub: 'Maths, Science'
+                sub: 'S.S.T'
             },
             {
                 day: 'Thu',
-                sub: 'Maths, Science'
+                sub: 'Maths'
             },
             {
                 day: 'Fri',
-                sub: 'Maths, Science'
+                sub: 'Science'
             },
             {
                 day: 'Sat',
-                sub: 'Maths, 8'
+                sub: 'S.S.T'
             }
         ];
         this.routineClass7 = [
             {
                 day: 'Mon',
-                sub: 'Maths, Science'
+                sub: ''
             },
             {
                 day: 'Tue',
-                sub: 'Maths, Science'
+                sub: ''
             },
             {
                 day: 'Wed',
-                sub: 'Maths, Science'
+                sub: ''
             },
             {
                 day: 'Thu',
-                sub: 'Maths, Science'
+                sub: ''
             },
             {
                 day: 'Fri',
-                sub: 'Maths, Science'
+                sub: ''
             },
             {
                 day: 'Sat',
-                sub: 'Maths, 7'
+                sub: ''
             }
         ];
         this.classList = [10, 9, 8, 7];
@@ -835,12 +1083,12 @@ class NoticeComponent {
 NoticeComponent.ɵfac = function NoticeComponent_Factory(t) { return new (t || NoticeComponent)(); };
 NoticeComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: NoticeComponent, selectors: [["app-notice"]], hostBindings: function NoticeComponent_HostBindings(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("resize", function NoticeComponent_resize_HostBindingHandler($event) { return ctx.onResize($event); }, false, _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵresolveWindow"]);
-    } }, decls: 20, vars: 6, consts: [["id", "Notice", 1, "row", "mx-5", "mt-1", "align-center", "meeting-list", "rounded", "max-height"], [1, "card-header"], ["class", "col-12", 4, "ngFor", "ngForOf"], [1, "show-more"], ["href", "#", 3, "click", 4, "ngIf"], [1, "notice-board", "mt-1", "max-height", "max-height-mobile"], [1, "border", "border-dark", "notice-max-height", "rounded"], [1, "border", "border-dark", "routine-max-height", "rounded", "mt-3"], [1, "mt-1", "rounded", "notice-max-height"], [1, "col-12", "px-0"], [1, "nav", "nav-tabs"], ["class", "nav-item", 4, "ngFor", "ngForOf"], ["class", "sub", 4, "ngIf"], [1, "col-12"], [1, "row", "border-bottom", "mx-3", "mt-2"], [1, "card", "col-md-8", "border-bottom", "border-0"], [1, "card-body"], [1, "card-title"], [1, "card-text"], ["href", "#!"], [1, "card", "col-md-4", "border-0"], [1, "profile-pic", 3, "src"], ["href", "#", 3, "click"], ["href", "#"], [1, "nav-item"], [1, "nav-link", "class-list", 3, "click"], [1, "sub"], [1, "routine"], [4, "ngFor", "ngForOf"], [4, "ngIf"]], template: function NoticeComponent_Template(rf, ctx) { if (rf & 1) {
+    } }, decls: 20, vars: 6, consts: [["id", "Notice", 1, "row", "mx-5", "mt-1", "align-center", "meeting-list", "rounded", "max-height"], [1, "card-header"], ["class", "col-12", 4, "ngFor", "ngForOf"], [1, "show-more"], ["href", "#", 3, "click", 4, "ngIf"], [1, "notice-board", "mt-1", "max-height", "max-height-mobile"], [1, "border", "border-dark", "notice-max-height", "rounded"], [1, "border", "border-dark", "routine-max-height", "rounded", "mt-3"], [1, "mt-1", "rounded", "notice-max-height"], [1, "col-12", "px-0"], [1, "nav", "nav-tabs"], ["class", "nav-item", 4, "ngFor", "ngForOf"], ["class", "sub", 4, "ngIf"], [1, "col-12"], [1, "row", "border-bottom", "mx-3", "mt-2"], [1, "card", "col-md-8", "border-bottom", "border-0"], [1, "card-body"], [1, "card-title"], [1, "card-text"], [3, "href"], [1, "card", "col-md-4", "border-0"], [1, "profile-pic", 3, "src"], ["href", "#", 3, "click"], ["href", "#"], [1, "nav-item"], [1, "nav-link", "class-list", 3, "click"], [1, "sub"], [1, "routine"], [4, "ngFor", "ngForOf"], [4, "ngIf"]], template: function NoticeComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](2, " Recent Announcements ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](3, NoticeComponent_div_3_Template, 22, 8, "div", 2);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](3, NoticeComponent_div_3_Template, 22, 9, "div", 2);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "div", 3);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](5, NoticeComponent_a_5_Template, 2, 0, "a", 4);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -940,7 +1188,7 @@ class SlidecardComponent {
     }
 }
 SlidecardComponent.ɵfac = function SlidecardComponent_Factory(t) { return new (t || SlidecardComponent)(); };
-SlidecardComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: SlidecardComponent, selectors: [["app-slidecard"]], decls: 5, vars: 2, consts: [[1, "rounded", "slide-image", "mt-2", "mb-2"], ["interval", "4000", 3, "showNavigationArrows", "showNavigationIndicators"], ["ngbSlide", ""], [1, "picsum-img-wrapper"], ["src", "assets/slide1.jpg", "alt", "Random first slide"], [1, "carousel-caption"], ["src", "assets/slide2.jfif", "alt", "Random first slide"], ["src", "assets/slide3.jfif", "alt", "Random first slide"]], template: function SlidecardComponent_Template(rf, ctx) { if (rf & 1) {
+SlidecardComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: SlidecardComponent, selectors: [["app-slidecard"]], decls: 5, vars: 2, consts: [[1, "rounded", "slide-image", "mt-2", "mb-2"], ["interval", "4000", 3, "showNavigationArrows", "showNavigationIndicators"], ["ngbSlide", ""], [1, "picsum-img-wrapper"], ["src", "assets/sli1.jpg", "alt", "Random first slide"], ["hidden", "true", 1, "carousel-caption"], ["src", "assets/sli2.jpg", "alt", "Random first slide"], ["src", "assets/sli3.jpg", "alt", "Random first slide"]], template: function SlidecardComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "ngb-carousel", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](2, SlidecardComponent_ng_template_2_Template, 7, 0, "ng-template", 2);
@@ -1002,7 +1250,7 @@ function StudentComponent_div_17_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](3);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](data_r3.name);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](data_r3.title);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](data_r3.school);
 } }
 function StudentComponent_div_25_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 21);
@@ -1014,7 +1262,7 @@ function StudentComponent_div_25_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "h5", 26);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](6);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "p", 27);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "p", 28);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](8);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -1027,7 +1275,7 @@ function StudentComponent_div_25_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](3);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](data_r4.name);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](data_r4.title);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](data_r4.school);
 } }
 function StudentComponent_div_33_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 21);
@@ -1039,7 +1287,7 @@ function StudentComponent_div_33_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "h5", 26);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](6);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "p", 27);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "p", 28);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](8);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -1052,66 +1300,259 @@ function StudentComponent_div_33_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](3);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](data_r5.name);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](data_r5.title);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](data_r5.school);
 } }
 class StudentComponent {
     constructor() {
         this.class8 = [
             {
-                name: 'Sunny kumar',
+                name: 'Varsha',
                 path: 'assets/profile.png',
-                title: 'maths, science',
-                subtitle: 'other information',
-                number: '987654321'
+                school: 'maths, science'
             },
             {
-                name: 'saurabh kumar',
+                name: 'Shaily',
                 path: 'assets/profile.png',
-                title: 'maths, science',
-                subtitle: 'other information',
-                number: '987654321'
+                school: 'maths, science'
             },
             {
-                name: 'Srini kumar',
+                name: 'Prisha',
                 path: 'assets/profile.png',
-                title: 'maths, science',
-                subtitle: 'other information',
-                number: '987654321'
+                school: 'maths, science'
             },
             {
-                name: 'saurabh kumar',
+                name: 'Amisha',
                 path: 'assets/profile.png',
-                title: 'maths, science',
-                subtitle: 'other information',
-                number: '987654321'
+                school: 'maths, science'
             },
             {
-                name: 'saurabh kumar',
+                name: 'Khushi',
                 path: 'assets/profile.png',
-                title: 'maths, science',
-                subtitle: 'other information',
-                number: '987654321'
+                school: 'maths, science'
             },
             {
-                name: 'saurabh kumar',
+                name: 'Milhaan',
                 path: 'assets/profile.png',
-                title: 'maths, science',
-                subtitle: 'other information',
-                number: '987654321'
+                school: 'maths, science'
+            }
+        ];
+        this.class9 = [
+            {
+                name: 'Suhami',
+                path: 'assets/profile.png',
+                school: 'maths, science'
             },
             {
-                name: 'saurabh kumar',
+                name: 'Somya',
                 path: 'assets/profile.png',
-                title: 'maths, science',
-                subtitle: 'other information',
-                number: '987654321'
+                school: 'maths, science'
             },
             {
-                name: 'saurabh kumar',
+                name: 'Abay',
                 path: 'assets/profile.png',
-                title: 'maths, science',
-                subtitle: 'other information',
-                number: '987654321'
+                school: 'maths, science'
+            },
+            {
+                name: 'Talha',
+                path: 'assets/profile.png',
+                school: 'maths, science'
+            },
+            {
+                name: 'Abhishek',
+                path: 'assets/profile.png',
+                school: 'maths, science'
+            },
+            {
+                name: 'Manish',
+                path: 'assets/profile.png',
+                school: 'maths, science'
+            },
+            {
+                name: 'Ankur',
+                path: 'assets/profile.png',
+                school: 'maths, science'
+            },
+            {
+                name: 'Aaditya',
+                path: 'assets/profile.png',
+                school: 'maths, science'
+            },
+            {
+                name: 'Pawan',
+                path: 'assets/profile.png',
+                school: 'maths, science'
+            },
+            {
+                name: 'Sakshi',
+                path: 'assets/profile.png',
+                school: 'maths, science'
+            },
+            {
+                name: 'Niskita',
+                path: 'assets/profile.png',
+                school: 'maths, science'
+            },
+            {
+                name: 'Simpy',
+                path: 'assets/profile.png',
+                school: 'maths, science'
+            },
+            {
+                name: 'Aakansha',
+                path: 'assets/profile.png',
+                school: 'maths, science'
+            },
+            {
+                name: 'Bhavya',
+                path: 'assets/profile.png',
+                school: 'maths, science'
+            },
+            {
+                name: 'Priya',
+                path: 'assets/profile.png',
+                school: 'maths, science'
+            },
+            {
+                name: 'Aayushi',
+                path: 'assets/profile.png',
+                school: 'maths, science'
+            },
+            {
+                name: 'Ragini',
+                path: 'assets/profile.png',
+                school: 'maths, science'
+            },
+            {
+                name: 'Supriya',
+                path: 'assets/profile.png',
+                school: 'maths, science'
+            },
+            {
+                name: 'Mushkan',
+                path: 'assets/profile.png',
+                school: 'maths, science'
+            },
+            {
+                name: 'Sushant',
+                path: 'assets/profile.png',
+                school: 'maths, science'
+            }
+        ];
+        this.class10 = [
+            {
+                name: 'Sarthali',
+                path: 'assets/profile.png',
+                school: 'maths, science'
+            },
+            {
+                name: 'Riya',
+                path: 'assets/profile.png',
+                school: 'maths, science'
+            },
+            {
+                name: 'Dheeraj ',
+                path: 'assets/profile.png',
+                school: 'maths, science'
+            },
+            {
+                name: 'Sneha Singh',
+                path: 'assets/profile.png',
+                school: 'maths, science'
+            },
+            {
+                name: 'Sneha Gupta',
+                path: 'assets/profile.png',
+                school: 'maths, science'
+            },
+            {
+                name: 'Talat',
+                path: 'assets/profile.png',
+                school: 'maths, science'
+            },
+            {
+                name: 'Harshita',
+                path: 'assets/profile.png',
+                school: 'maths, science'
+            },
+            {
+                name: 'Geetika ',
+                path: 'assets/profile.png',
+                school: 'maths, science'
+            },
+            {
+                name: 'Priyanshu ',
+                path: 'assets/profile.png',
+                school: 'maths, science'
+            },
+            {
+                name: 'Sigyasa ',
+                path: 'assets/profile.png',
+                school: 'maths, science'
+            },
+            {
+                name: 'Ritika',
+                path: 'assets/profile.png',
+                school: 'maths, science'
+            },
+            {
+                name: 'Rohini',
+                path: 'assets/profile.png',
+                school: 'maths, science'
+            },
+            {
+                name: 'Ankita',
+                path: 'assets/profile.png',
+                school: 'maths, science'
+            },
+            {
+                name: 'Hema',
+                path: 'assets/profile.png',
+                school: 'maths, science'
+            },
+            {
+                name: 'Kajal',
+                path: 'assets/profile.png',
+                school: 'maths, science'
+            },
+            {
+                name: 'Khushboo',
+                path: 'assets/profile.png',
+                school: 'maths, science'
+            },
+            {
+                name: 'Komal',
+                path: 'assets/profile.png',
+                school: 'maths, science'
+            },
+            {
+                name: 'Meenakshi ',
+                path: 'assets/profile.png',
+                school: 'maths, science'
+            },
+            {
+                name: 'Pallavi',
+                path: 'assets/profile.png',
+                school: 'maths, science'
+            },
+            {
+                name: 'Priyanka ',
+                path: 'assets/profile.png',
+                school: 'maths, science'
+            },
+            {
+                name: 'Shalu',
+                path: 'assets/profile.png',
+                school: 'maths, science'
+            },
+            {
+                name: 'Somya',
+                path: 'assets/profile.png',
+                school: 'maths, science'
+            },
+            {
+                name: 'Himani',
+                path: 'assets/profile.png',
+                school: 'maths, science'
             }
         ];
     }
@@ -1119,7 +1560,7 @@ class StudentComponent {
     }
 }
 StudentComponent.ɵfac = function StudentComponent_Factory(t) { return new (t || StudentComponent)(); };
-StudentComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: StudentComponent, selectors: [["app-student"]], decls: 34, vars: 3, consts: [["id", "Student", 1, "rounded"], [1, "row", "px-5", "mt-4", "rounded"], [1, "col-12", "ruler", "rounded"], [1, "row"], [1, "col-12", "px-5"], [1, "row", "px-5", "mt-1", "align-center"], [1, "col-sm-12", "col-md", "pl-2", "p-bottom-40"], ["id", "accordion"], [1, "card"], ["id", "headingOne", 1, "card-header"], [1, "mb-0"], ["data-toggle", "collapse", "data-target", "#class8", "aria-expanded", "false", "aria-controls", "collapseOne", 1, "btn", "btn-link"], ["id", "class8", "aria-labelledby", "headingOne", "data-parent", "#accordion", 1, "collapse"], [1, "row", "max-height"], ["class", "card-body col-sm-12 col-md-4", 4, "ngFor", "ngForOf"], ["id", "headingTwo", 1, "card-header"], ["data-toggle", "collapse", "data-target", "#class9", "aria-expanded", "false", "aria-controls", "collapseTwo", 1, "btn", "btn-link", "collapsed"], ["id", "class9", "aria-labelledby", "headingTwo", "data-parent", "#accordion", 1, "collapse"], ["id", "headingThree", 1, "card-header"], ["data-toggle", "collapse", "data-target", "#class10", "aria-expanded", "false", "aria-controls", "collapseThree", 1, "btn", "btn-link", "collapsed"], ["id", "class10", "aria-labelledby", "headingThree", "data-parent", "#accordion", 1, "collapse"], [1, "card-body", "col-sm-12", "col-md-4"], [1, "row", "rounded", "border", "ml-2", "mr-2", "p-1"], [1, "col-3"], ["alt", "Card image cap", 1, "rounded-circle", "profie-pic", "pr-2", 3, "src"], [1, "col-9", "student-data"], [1, "card-title"], [1, "card-text"]], template: function StudentComponent_Template(rf, ctx) { if (rf & 1) {
+StudentComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: StudentComponent, selectors: [["app-student"]], decls: 34, vars: 3, consts: [["id", "Student", 1, "rounded"], [1, "row", "px-5", "mt-4", "rounded"], [1, "col-12", "ruler", "rounded"], [1, "row"], [1, "col-12", "px-5"], [1, "row", "px-5", "mt-1", "align-center"], [1, "col-sm-12", "col-md", "pl-2", "p-bottom-40"], ["id", "accordion"], [1, "card"], ["id", "headingThree", 1, "card-header"], [1, "mb-0"], ["data-toggle", "collapse", "data-target", "#class10", "aria-expanded", "false", "aria-controls", "collapseThree", 1, "btn", "btn-link", "collapsed"], ["id", "class10", "aria-labelledby", "headingThree", "data-parent", "#accordion", 1, "collapse"], [1, "row", "max-height"], ["class", "card-body col-sm-12 col-md-4", 4, "ngFor", "ngForOf"], ["id", "headingTwo", 1, "card-header"], ["data-toggle", "collapse", "data-target", "#class9", "aria-expanded", "false", "aria-controls", "collapseTwo", 1, "btn", "btn-link", "collapsed"], ["id", "class9", "aria-labelledby", "headingTwo", "data-parent", "#accordion", 1, "collapse"], ["id", "headingOne", 1, "card-header"], ["data-toggle", "collapse", "data-target", "#class8", "aria-expanded", "false", "aria-controls", "collapseOne", 1, "btn", "btn-link"], ["id", "class8", "aria-labelledby", "headingOne", "data-parent", "#accordion", 1, "collapse"], [1, "card-body", "col-sm-12", "col-md-4"], [1, "row", "rounded", "border", "ml-2", "mr-2", "p-1"], [1, "col-3"], ["alt", "Card image cap", 1, "rounded-circle", "profie-pic", "pr-2", 3, "src"], [1, "col-9", "student-data"], [1, "card-title"], ["hidden", "true", 1, "card-text"], [1, "card-text"]], template: function StudentComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](2, "div", 2);
@@ -1138,7 +1579,7 @@ StudentComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineC
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](11, "div", 9);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](12, "h5", 10);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](13, "button", 11);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](14, " Class 8 ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](14, " Class 10 ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -1166,7 +1607,7 @@ StudentComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineC
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](27, "div", 18);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](28, "h5", 10);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](29, "button", 19);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](30, " Class 10 ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](30, " Class 8 ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -1182,9 +1623,9 @@ StudentComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineC
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     } if (rf & 2) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](17);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngForOf", ctx.class8);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngForOf", ctx.class10);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](8);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngForOf", ctx.class8);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngForOf", ctx.class9);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](8);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngForOf", ctx.class8);
     } }, directives: [_angular_common__WEBPACK_IMPORTED_MODULE_1__["NgForOf"]], styles: ["img[_ngcontent-%COMP%] {\r\n  width: 68px;\r\n  height: 68px;\r\n}\r\n\r\n.max-height[_ngcontent-%COMP%] {\r\n    max-height: 350px;\r\n    overflow-y: auto;\r\n}\r\n\r\n.student-data[_ngcontent-%COMP%] {\r\n  padding-left: 20px;\r\n}\r\n\r\n.card-body[_ngcontent-%COMP%] {\r\n  padding: .8rem;\r\n}\r\n\r\n@media (max-width: 350px) {\r\n  img[_ngcontent-%COMP%] {\r\n    width: 50px;\r\n    height: 50px;\r\n  }\r\n\r\n  .p-1[_ngcontent-%COMP%] {\r\n    padding: 0rem;\r\n  }\r\n\r\n  .col-3[_ngcontent-%COMP%]{\r\n    padding-left: 0px;\r\n    padding-right: 5px;\r\n  }\r\n\r\n  .col-9[_ngcontent-%COMP%] {\r\n    padding-left: 8px;\r\n    padding-right: 0px;\r\n  }\r\n\r\n  h5[_ngcontent-%COMP%] {\r\n    font-size: 1rem;\r\n    margin-bottom: 0rem;\r\n  }\r\n\r\n  .card-body[_ngcontent-%COMP%] {\r\n    padding: 0.3rem 0.7rem;\r\n  }\r\n}\r\n\r\n@media (min-width: 350px) and  (max-width: 450px) {\r\n  img[_ngcontent-%COMP%] {\r\n    width: 50px;\r\n    height: 50px;\r\n  }\r\n\r\n  .p-1[_ngcontent-%COMP%] {\r\n    padding: 0rem;\r\n  }\r\n\r\n  h5[_ngcontent-%COMP%] {\r\n    font-size: 1rem;\r\n    margin-bottom: 0rem;\r\n  }\r\n\r\n  .card-body[_ngcontent-%COMP%] {\r\n    padding: .35rem 1rem;\r\n  }\r\n}\r\n\r\n.ruler[_ngcontent-%COMP%] {\r\n  margin-top: 1rem;\r\n  margin-bottom: 1rem;\r\n  border: 0;\r\n  border-top: 1rem solid rgba(0, 0, 0, 0.1);\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50L3N0dWRlbnQvc3R1ZGVudC5jb21wb25lbnQuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsV0FBVztFQUNYLFlBQVk7QUFDZDs7QUFFQTtJQUNJLGlCQUFpQjtJQUNqQixnQkFBZ0I7QUFDcEI7O0FBRUE7RUFDRSxrQkFBa0I7QUFDcEI7O0FBRUE7RUFDRSxjQUFjO0FBQ2hCOztBQUVBO0VBQ0U7SUFDRSxXQUFXO0lBQ1gsWUFBWTtFQUNkOztFQUVBO0lBQ0UsYUFBYTtFQUNmOztFQUVBO0lBQ0UsaUJBQWlCO0lBQ2pCLGtCQUFrQjtFQUNwQjs7RUFFQTtJQUNFLGlCQUFpQjtJQUNqQixrQkFBa0I7RUFDcEI7O0VBRUE7SUFDRSxlQUFlO0lBQ2YsbUJBQW1CO0VBQ3JCOztFQUVBO0lBQ0Usc0JBQXNCO0VBQ3hCO0FBQ0Y7O0FBR0E7RUFDRTtJQUNFLFdBQVc7SUFDWCxZQUFZO0VBQ2Q7O0VBRUE7SUFDRSxhQUFhO0VBQ2Y7O0VBRUE7SUFDRSxlQUFlO0lBQ2YsbUJBQW1CO0VBQ3JCOztFQUVBO0lBQ0Usb0JBQW9CO0VBQ3RCO0FBQ0Y7O0FBRUE7RUFDRSxnQkFBZ0I7RUFDaEIsbUJBQW1CO0VBQ25CLFNBQVM7RUFDVCx5Q0FBeUM7QUFDM0MiLCJmaWxlIjoic3JjL2FwcC9jb21wb25lbnQvc3R1ZGVudC9zdHVkZW50LmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyJpbWcge1xyXG4gIHdpZHRoOiA2OHB4O1xyXG4gIGhlaWdodDogNjhweDtcclxufVxyXG5cclxuLm1heC1oZWlnaHQge1xyXG4gICAgbWF4LWhlaWdodDogMzUwcHg7XHJcbiAgICBvdmVyZmxvdy15OiBhdXRvO1xyXG59XHJcblxyXG4uc3R1ZGVudC1kYXRhIHtcclxuICBwYWRkaW5nLWxlZnQ6IDIwcHg7XHJcbn1cclxuXHJcbi5jYXJkLWJvZHkge1xyXG4gIHBhZGRpbmc6IC44cmVtO1xyXG59XHJcblxyXG5AbWVkaWEgKG1heC13aWR0aDogMzUwcHgpIHtcclxuICBpbWcge1xyXG4gICAgd2lkdGg6IDUwcHg7XHJcbiAgICBoZWlnaHQ6IDUwcHg7XHJcbiAgfVxyXG5cclxuICAucC0xIHtcclxuICAgIHBhZGRpbmc6IDByZW07XHJcbiAgfVxyXG5cclxuICAuY29sLTN7XHJcbiAgICBwYWRkaW5nLWxlZnQ6IDBweDtcclxuICAgIHBhZGRpbmctcmlnaHQ6IDVweDtcclxuICB9XHJcblxyXG4gIC5jb2wtOSB7XHJcbiAgICBwYWRkaW5nLWxlZnQ6IDhweDtcclxuICAgIHBhZGRpbmctcmlnaHQ6IDBweDtcclxuICB9XHJcblxyXG4gIGg1IHtcclxuICAgIGZvbnQtc2l6ZTogMXJlbTtcclxuICAgIG1hcmdpbi1ib3R0b206IDByZW07XHJcbiAgfVxyXG5cclxuICAuY2FyZC1ib2R5IHtcclxuICAgIHBhZGRpbmc6IDAuM3JlbSAwLjdyZW07XHJcbiAgfVxyXG59XHJcblxyXG5cclxuQG1lZGlhIChtaW4td2lkdGg6IDM1MHB4KSBhbmQgIChtYXgtd2lkdGg6IDQ1MHB4KSB7XHJcbiAgaW1nIHtcclxuICAgIHdpZHRoOiA1MHB4O1xyXG4gICAgaGVpZ2h0OiA1MHB4O1xyXG4gIH1cclxuXHJcbiAgLnAtMSB7XHJcbiAgICBwYWRkaW5nOiAwcmVtO1xyXG4gIH1cclxuXHJcbiAgaDUge1xyXG4gICAgZm9udC1zaXplOiAxcmVtO1xyXG4gICAgbWFyZ2luLWJvdHRvbTogMHJlbTtcclxuICB9XHJcblxyXG4gIC5jYXJkLWJvZHkge1xyXG4gICAgcGFkZGluZzogLjM1cmVtIDFyZW07XHJcbiAgfVxyXG59XHJcblxyXG4ucnVsZXIge1xyXG4gIG1hcmdpbi10b3A6IDFyZW07XHJcbiAgbWFyZ2luLWJvdHRvbTogMXJlbTtcclxuICBib3JkZXI6IDA7XHJcbiAgYm9yZGVyLXRvcDogMXJlbSBzb2xpZCByZ2JhKDAsIDAsIDAsIDAuMSk7XHJcbn1cclxuIl19 */"] });
@@ -1242,51 +1683,44 @@ class TeacherComponent {
     constructor() {
         this.data = [
             {
-                name: 'saurabh kumar',
-                path: 'assets/profile.png',
-                title: 'maths, science',
+                name: 'Mr. C K Singh',
+                path: 'assets/teacher/chandan.jpg',
+                title: 'Physics, Maths',
                 subtitle: 'other information',
                 number: '987654321'
             },
             {
-                name: 'saurabh kumar',
-                path: 'assets/profile.png',
-                title: 'maths, science',
+                name: 'Mr. R Kumar',
+                path: 'assets/teacher/ranjan.jpg',
+                title: 'Social Science',
                 subtitle: 'other information',
                 number: '987654321'
             },
             {
-                name: 'saurabh kumar',
+                name: 'Mr. Sunny Kumar',
                 path: 'assets/profile.png',
-                title: 'maths, science',
+                title: 'Biology',
                 subtitle: 'other information',
                 number: '987654321'
             },
             {
-                name: 'saurabh kumar',
+                name: 'Mr. Rizwan',
                 path: 'assets/profile.png',
-                title: 'maths, science',
+                title: 'Chemistry',
                 subtitle: 'other information',
                 number: '987654321'
             },
             {
-                name: 'saurabh kumar',
-                path: 'assets/profile.png',
-                title: 'maths, science',
+                name: 'Mr. A K Mishra',
+                path: 'assets/teacher/AK.jpg',
+                title: 'Hindi, Sanskrit',
                 subtitle: 'other information',
                 number: '987654321'
             },
             {
-                name: 'saurabh kumar',
-                path: 'assets/profile.png',
-                title: 'maths, science',
-                subtitle: 'other information',
-                number: '987654321'
-            },
-            {
-                name: 'saurabh kumar',
-                path: 'assets/profile.png',
-                title: 'maths, science',
+                name: 'Mr. Omprakash',
+                path: 'assets/teacher/Omp.jpg',
+                title: 'English',
                 subtitle: 'other information',
                 number: '987654321'
             }
@@ -1315,7 +1749,7 @@ TeacherComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineC
     } if (rf & 2) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](8);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngForOf", ctx.data);
-    } }, directives: [_angular_common__WEBPACK_IMPORTED_MODULE_1__["NgForOf"]], styles: [".profie-pic[_ngcontent-%COMP%] {\r\n  width: 40%;\r\n}\r\n\r\n.card[_ngcontent-%COMP%] {\r\n  align-items: center;\r\n}\r\n\r\n.p-bottom-40[_ngcontent-%COMP%] {\r\n  padding-bottom: 40px;\r\n}\r\n\r\n@media (max-width: 350px) {\r\n  .card[_ngcontent-%COMP%] {\r\n    flex-direction: initial;\r\n    max-height: 80px;\r\n  }\r\n\r\n  .profie-pic[_ngcontent-%COMP%] {\r\n    padding-left: 5px;\r\n    width: 50px;\r\n    height: 50px;\r\n  }\r\n\r\n  .p-bottom-40[_ngcontent-%COMP%] {\r\n    padding-bottom: 10px;\r\n  }\r\n\r\n  .max-height[_ngcontent-%COMP%] {\r\n    max-height: 400px;\r\n    background: gray;\r\n    overflow-y: auto;\r\n  }\r\n}\r\n\r\n@media (min-width: 350px) and (max-width: 450px) {\r\n  .card[_ngcontent-%COMP%] {\r\n    flex-direction: initial;\r\n    max-height: 95px;\r\n  }\r\n\r\n  .profie-pic[_ngcontent-%COMP%] {\r\n    margin-left: 10px;\r\n    width: 60px;\r\n    height: 60px;\r\n  }\r\n\r\n  .p-bottom-40[_ngcontent-%COMP%] {\r\n    padding-bottom: 10px;\r\n  }\r\n\r\n  .max-height[_ngcontent-%COMP%] {\r\n    max-height: 500px;\r\n    background: white;\r\n    overflow-y: auto;\r\n  }\r\n}\r\n\r\n.ruler[_ngcontent-%COMP%] {\r\n  margin-top: 1rem;\r\n  margin-bottom: 1rem;\r\n  border: 0;\r\n  border-top: 1rem solid rgba(0, 0, 0, 0.1);\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50L3RlYWNoZXIvdGVhY2hlci5jb21wb25lbnQuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsVUFBVTtBQUNaOztBQUVBO0VBQ0UsbUJBQW1CO0FBQ3JCOztBQUVBO0VBQ0Usb0JBQW9CO0FBQ3RCOztBQUVBO0VBQ0U7SUFDRSx1QkFBdUI7SUFDdkIsZ0JBQWdCO0VBQ2xCOztFQUVBO0lBQ0UsaUJBQWlCO0lBQ2pCLFdBQVc7SUFDWCxZQUFZO0VBQ2Q7O0VBRUE7SUFDRSxvQkFBb0I7RUFDdEI7O0VBRUE7SUFDRSxpQkFBaUI7SUFDakIsZ0JBQWdCO0lBQ2hCLGdCQUFnQjtFQUNsQjtBQUNGOztBQUVBO0VBQ0U7SUFDRSx1QkFBdUI7SUFDdkIsZ0JBQWdCO0VBQ2xCOztFQUVBO0lBQ0UsaUJBQWlCO0lBQ2pCLFdBQVc7SUFDWCxZQUFZO0VBQ2Q7O0VBRUE7SUFDRSxvQkFBb0I7RUFDdEI7O0VBRUE7SUFDRSxpQkFBaUI7SUFDakIsaUJBQWlCO0lBQ2pCLGdCQUFnQjtFQUNsQjtBQUNGOztBQUVBO0VBQ0UsZ0JBQWdCO0VBQ2hCLG1CQUFtQjtFQUNuQixTQUFTO0VBQ1QseUNBQXlDO0FBQzNDIiwiZmlsZSI6InNyYy9hcHAvY29tcG9uZW50L3RlYWNoZXIvdGVhY2hlci5jb21wb25lbnQuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLnByb2ZpZS1waWMge1xyXG4gIHdpZHRoOiA0MCU7XHJcbn1cclxuXHJcbi5jYXJkIHtcclxuICBhbGlnbi1pdGVtczogY2VudGVyO1xyXG59XHJcblxyXG4ucC1ib3R0b20tNDAge1xyXG4gIHBhZGRpbmctYm90dG9tOiA0MHB4O1xyXG59XHJcblxyXG5AbWVkaWEgKG1heC13aWR0aDogMzUwcHgpIHtcclxuICAuY2FyZCB7XHJcbiAgICBmbGV4LWRpcmVjdGlvbjogaW5pdGlhbDtcclxuICAgIG1heC1oZWlnaHQ6IDgwcHg7XHJcbiAgfVxyXG5cclxuICAucHJvZmllLXBpYyB7XHJcbiAgICBwYWRkaW5nLWxlZnQ6IDVweDtcclxuICAgIHdpZHRoOiA1MHB4O1xyXG4gICAgaGVpZ2h0OiA1MHB4O1xyXG4gIH1cclxuXHJcbiAgLnAtYm90dG9tLTQwIHtcclxuICAgIHBhZGRpbmctYm90dG9tOiAxMHB4O1xyXG4gIH1cclxuXHJcbiAgLm1heC1oZWlnaHQge1xyXG4gICAgbWF4LWhlaWdodDogNDAwcHg7XHJcbiAgICBiYWNrZ3JvdW5kOiBncmF5O1xyXG4gICAgb3ZlcmZsb3cteTogYXV0bztcclxuICB9XHJcbn1cclxuXHJcbkBtZWRpYSAobWluLXdpZHRoOiAzNTBweCkgYW5kIChtYXgtd2lkdGg6IDQ1MHB4KSB7XHJcbiAgLmNhcmQge1xyXG4gICAgZmxleC1kaXJlY3Rpb246IGluaXRpYWw7XHJcbiAgICBtYXgtaGVpZ2h0OiA5NXB4O1xyXG4gIH1cclxuXHJcbiAgLnByb2ZpZS1waWMge1xyXG4gICAgbWFyZ2luLWxlZnQ6IDEwcHg7XHJcbiAgICB3aWR0aDogNjBweDtcclxuICAgIGhlaWdodDogNjBweDtcclxuICB9XHJcblxyXG4gIC5wLWJvdHRvbS00MCB7XHJcbiAgICBwYWRkaW5nLWJvdHRvbTogMTBweDtcclxuICB9XHJcblxyXG4gIC5tYXgtaGVpZ2h0IHtcclxuICAgIG1heC1oZWlnaHQ6IDUwMHB4O1xyXG4gICAgYmFja2dyb3VuZDogd2hpdGU7XHJcbiAgICBvdmVyZmxvdy15OiBhdXRvO1xyXG4gIH1cclxufVxyXG5cclxuLnJ1bGVyIHtcclxuICBtYXJnaW4tdG9wOiAxcmVtO1xyXG4gIG1hcmdpbi1ib3R0b206IDFyZW07XHJcbiAgYm9yZGVyOiAwO1xyXG4gIGJvcmRlci10b3A6IDFyZW0gc29saWQgcmdiYSgwLCAwLCAwLCAwLjEpO1xyXG59XHJcbiJdfQ== */"] });
+    } }, directives: [_angular_common__WEBPACK_IMPORTED_MODULE_1__["NgForOf"]], styles: [".profie-pic[_ngcontent-%COMP%] {\r\n  width: 76px;\r\n  height: 85px;\r\n}\r\n\r\n.card[_ngcontent-%COMP%] {\r\n  align-items: center;\r\n}\r\n\r\n.p-bottom-40[_ngcontent-%COMP%] {\r\n  padding-bottom: 40px;\r\n}\r\n\r\n@media (max-width: 350px) {\r\n  .card[_ngcontent-%COMP%] {\r\n    flex-direction: initial;\r\n    max-height: 80px;\r\n  }\r\n\r\n  .profie-pic[_ngcontent-%COMP%] {\r\n    padding-left: 5px;\r\n    width: 50px;\r\n    height: 50px;\r\n  }\r\n\r\n  .p-bottom-40[_ngcontent-%COMP%] {\r\n    padding-bottom: 10px;\r\n  }\r\n\r\n  .max-height[_ngcontent-%COMP%] {\r\n    max-height: 400px;\r\n    background: gray;\r\n    overflow-y: auto;\r\n  }\r\n}\r\n\r\n@media (min-width: 350px) and (max-width: 450px) {\r\n  .card[_ngcontent-%COMP%] {\r\n    flex-direction: initial;\r\n    max-height: 95px;\r\n  }\r\n\r\n  .profie-pic[_ngcontent-%COMP%] {\r\n    margin-left: 10px;\r\n    width: 60px;\r\n    height: 60px;\r\n  }\r\n\r\n  .p-bottom-40[_ngcontent-%COMP%] {\r\n    padding-bottom: 10px;\r\n  }\r\n\r\n  .max-height[_ngcontent-%COMP%] {\r\n    max-height: 500px;\r\n    background: white;\r\n    overflow-y: auto;\r\n  }\r\n}\r\n\r\n@media (min-width: 768px) and (max-width: 1100px) {\r\n  h5[_ngcontent-%COMP%] {\r\n    font-size: 1rem;\r\n  }\r\n}\r\n\r\n@media (min-width: 1100px) {\r\n  h5[_ngcontent-%COMP%] {\r\n    font-size: 1.15rem;\r\n  }\r\n}\r\n\r\n.ruler[_ngcontent-%COMP%] {\r\n  margin-top: 1rem;\r\n  margin-bottom: 1rem;\r\n  border: 0;\r\n  border-top: 1rem solid rgba(0, 0, 0, 0.1);\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50L3RlYWNoZXIvdGVhY2hlci5jb21wb25lbnQuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsV0FBVztFQUNYLFlBQVk7QUFDZDs7QUFFQTtFQUNFLG1CQUFtQjtBQUNyQjs7QUFFQTtFQUNFLG9CQUFvQjtBQUN0Qjs7QUFFQTtFQUNFO0lBQ0UsdUJBQXVCO0lBQ3ZCLGdCQUFnQjtFQUNsQjs7RUFFQTtJQUNFLGlCQUFpQjtJQUNqQixXQUFXO0lBQ1gsWUFBWTtFQUNkOztFQUVBO0lBQ0Usb0JBQW9CO0VBQ3RCOztFQUVBO0lBQ0UsaUJBQWlCO0lBQ2pCLGdCQUFnQjtJQUNoQixnQkFBZ0I7RUFDbEI7QUFDRjs7QUFFQTtFQUNFO0lBQ0UsdUJBQXVCO0lBQ3ZCLGdCQUFnQjtFQUNsQjs7RUFFQTtJQUNFLGlCQUFpQjtJQUNqQixXQUFXO0lBQ1gsWUFBWTtFQUNkOztFQUVBO0lBQ0Usb0JBQW9CO0VBQ3RCOztFQUVBO0lBQ0UsaUJBQWlCO0lBQ2pCLGlCQUFpQjtJQUNqQixnQkFBZ0I7RUFDbEI7QUFDRjs7QUFFQTtFQUNFO0lBQ0UsZUFBZTtFQUNqQjtBQUNGOztBQUVBO0VBQ0U7SUFDRSxrQkFBa0I7RUFDcEI7QUFDRjs7QUFHQTtFQUNFLGdCQUFnQjtFQUNoQixtQkFBbUI7RUFDbkIsU0FBUztFQUNULHlDQUF5QztBQUMzQyIsImZpbGUiOiJzcmMvYXBwL2NvbXBvbmVudC90ZWFjaGVyL3RlYWNoZXIuY29tcG9uZW50LmNzcyIsInNvdXJjZXNDb250ZW50IjpbIi5wcm9maWUtcGljIHtcclxuICB3aWR0aDogNzZweDtcclxuICBoZWlnaHQ6IDg1cHg7XHJcbn1cclxuXHJcbi5jYXJkIHtcclxuICBhbGlnbi1pdGVtczogY2VudGVyO1xyXG59XHJcblxyXG4ucC1ib3R0b20tNDAge1xyXG4gIHBhZGRpbmctYm90dG9tOiA0MHB4O1xyXG59XHJcblxyXG5AbWVkaWEgKG1heC13aWR0aDogMzUwcHgpIHtcclxuICAuY2FyZCB7XHJcbiAgICBmbGV4LWRpcmVjdGlvbjogaW5pdGlhbDtcclxuICAgIG1heC1oZWlnaHQ6IDgwcHg7XHJcbiAgfVxyXG5cclxuICAucHJvZmllLXBpYyB7XHJcbiAgICBwYWRkaW5nLWxlZnQ6IDVweDtcclxuICAgIHdpZHRoOiA1MHB4O1xyXG4gICAgaGVpZ2h0OiA1MHB4O1xyXG4gIH1cclxuXHJcbiAgLnAtYm90dG9tLTQwIHtcclxuICAgIHBhZGRpbmctYm90dG9tOiAxMHB4O1xyXG4gIH1cclxuXHJcbiAgLm1heC1oZWlnaHQge1xyXG4gICAgbWF4LWhlaWdodDogNDAwcHg7XHJcbiAgICBiYWNrZ3JvdW5kOiBncmF5O1xyXG4gICAgb3ZlcmZsb3cteTogYXV0bztcclxuICB9XHJcbn1cclxuXHJcbkBtZWRpYSAobWluLXdpZHRoOiAzNTBweCkgYW5kIChtYXgtd2lkdGg6IDQ1MHB4KSB7XHJcbiAgLmNhcmQge1xyXG4gICAgZmxleC1kaXJlY3Rpb246IGluaXRpYWw7XHJcbiAgICBtYXgtaGVpZ2h0OiA5NXB4O1xyXG4gIH1cclxuXHJcbiAgLnByb2ZpZS1waWMge1xyXG4gICAgbWFyZ2luLWxlZnQ6IDEwcHg7XHJcbiAgICB3aWR0aDogNjBweDtcclxuICAgIGhlaWdodDogNjBweDtcclxuICB9XHJcblxyXG4gIC5wLWJvdHRvbS00MCB7XHJcbiAgICBwYWRkaW5nLWJvdHRvbTogMTBweDtcclxuICB9XHJcblxyXG4gIC5tYXgtaGVpZ2h0IHtcclxuICAgIG1heC1oZWlnaHQ6IDUwMHB4O1xyXG4gICAgYmFja2dyb3VuZDogd2hpdGU7XHJcbiAgICBvdmVyZmxvdy15OiBhdXRvO1xyXG4gIH1cclxufVxyXG5cclxuQG1lZGlhIChtaW4td2lkdGg6IDc2OHB4KSBhbmQgKG1heC13aWR0aDogMTEwMHB4KSB7XHJcbiAgaDUge1xyXG4gICAgZm9udC1zaXplOiAxcmVtO1xyXG4gIH1cclxufVxyXG5cclxuQG1lZGlhIChtaW4td2lkdGg6IDExMDBweCkge1xyXG4gIGg1IHtcclxuICAgIGZvbnQtc2l6ZTogMS4xNXJlbTtcclxuICB9XHJcbn1cclxuXHJcblxyXG4ucnVsZXIge1xyXG4gIG1hcmdpbi10b3A6IDFyZW07XHJcbiAgbWFyZ2luLWJvdHRvbTogMXJlbTtcclxuICBib3JkZXI6IDA7XHJcbiAgYm9yZGVyLXRvcDogMXJlbSBzb2xpZCByZ2JhKDAsIDAsIDAsIDAuMSk7XHJcbn1cclxuIl19 */"] });
 /*@__PURE__*/ (function () { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](TeacherComponent, [{
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
         args: [{
