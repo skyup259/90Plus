@@ -1893,7 +1893,7 @@ class TeacherComponent {
                 facebook: '',
                 gmail: 'ninetyplus125@gmail.com',
                 meet: '',
-                number: '808-450-7237'
+                number: 8084507237
             },
             {
                 name: 'Mr. Ranjan Kumar',
@@ -1903,7 +1903,7 @@ class TeacherComponent {
                 facebook: '',
                 gmail: 'ninetyplus125@gmail.com',
                 meet: '',
-                number: '903-180-3592'
+                number: 9031803592
             },
             {
                 name: 'Mr. Sunny Singh',
