@@ -1835,9 +1835,15 @@ function TeacherComponent_div_8_a_9_Template(rf, ctx) { if (rf & 1) {
 } }
 function TeacherComponent_div_8_a_10_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](0, "a", 19);
+} if (rf & 2) {
+    const data_r1 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"]().$implicit;
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("href", "mailto:" + data_r1.gmail, _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
 } }
 function TeacherComponent_div_8_a_11_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](0, "a", 20);
+} if (rf & 2) {
+    const data_r1 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"]().$implicit;
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("href", "tel:" + data_r1.number, _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
 } }
 function TeacherComponent_div_8_a_12_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](0, "a", 21);
@@ -1858,8 +1864,8 @@ function TeacherComponent_div_8_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](8, "p", 13);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](9, TeacherComponent_div_8_a_9_Template, 1, 1, "a", 14);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](10, TeacherComponent_div_8_a_10_Template, 1, 0, "a", 15);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](11, TeacherComponent_div_8_a_11_Template, 1, 0, "a", 16);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](10, TeacherComponent_div_8_a_10_Template, 1, 1, "a", 15);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](11, TeacherComponent_div_8_a_11_Template, 1, 1, "a", 16);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](12, TeacherComponent_div_8_a_12_Template, 1, 1, "a", 17);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -1951,7 +1957,7 @@ class TeacherComponent {
     }
 }
 TeacherComponent.ɵfac = function TeacherComponent_Factory(t) { return new (t || TeacherComponent)(); };
-TeacherComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: TeacherComponent, selectors: [["app-teacher"]], decls: 9, vars: 1, consts: [["id", "Teacher", 1, "rounded"], [1, "row", "px-2rem", "mt-1", "rounded"], [1, "col-12", "ruler", "rounded"], [1, "row"], [1, "col-12", "px-5"], [1, "row", "px-5", "mt-1", "align-center", "max-height"], ["class", "col-sm-12 col-md-3 pl-2  p-bottom-40", 4, "ngFor", "ngForOf"], [1, "col-sm-12", "col-md-3", "pl-2", "p-bottom-40"], [1, "card", "mh-170"], ["alt", "Card image cap", 1, "card-img-top", "rounded-circle", "profie-pic", "pt-2", 3, "src"], [1, "card-body", "p-1"], [1, "card-title"], [1, "card-text", "mb-1"], [1, "mb-0"], ["class", "fa fa-facebook px-2", 3, "href", 4, "ngIf"], ["href", "mailto: data.gmail", "class", "fa fa-envelope px-2", 4, "ngIf"], ["href", "tel: data.number", "class", "fa fa-phone px-2", 4, "ngIf"], ["class", "fa fa-google px-2", 3, "href", 4, "ngIf"], [1, "fa", "fa-facebook", "px-2", 3, "href"], ["href", "mailto: data.gmail", 1, "fa", "fa-envelope", "px-2"], ["href", "tel: data.number", 1, "fa", "fa-phone", "px-2"], [1, "fa", "fa-google", "px-2", 3, "href"]], template: function TeacherComponent_Template(rf, ctx) { if (rf & 1) {
+TeacherComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: TeacherComponent, selectors: [["app-teacher"]], decls: 9, vars: 1, consts: [["id", "Teacher", 1, "rounded"], [1, "row", "px-2rem", "mt-1", "rounded"], [1, "col-12", "ruler", "rounded"], [1, "row"], [1, "col-12", "px-5"], [1, "row", "px-5", "mt-1", "align-center", "max-height"], ["class", "col-sm-12 col-md-3 pl-2  p-bottom-40", 4, "ngFor", "ngForOf"], [1, "col-sm-12", "col-md-3", "pl-2", "p-bottom-40"], [1, "card", "mh-170"], ["alt", "Card image cap", 1, "card-img-top", "rounded-circle", "profie-pic", "pt-2", 3, "src"], [1, "card-body", "p-1"], [1, "card-title"], [1, "card-text", "mb-1"], [1, "mb-0"], ["class", "fa fa-facebook px-2", 3, "href", 4, "ngIf"], ["class", "fa fa-envelope px-2", 3, "href", 4, "ngIf"], ["class", "fa fa-phone px-2", 3, "href", 4, "ngIf"], ["class", "fa fa-google px-2", 3, "href", 4, "ngIf"], [1, "fa", "fa-facebook", "px-2", 3, "href"], [1, "fa", "fa-envelope", "px-2", 3, "href"], [1, "fa", "fa-phone", "px-2", 3, "href"], [1, "fa", "fa-google", "px-2", 3, "href"]], template: function TeacherComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](2, "div", 2);
